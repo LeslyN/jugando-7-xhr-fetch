@@ -1,0 +1,15 @@
+{
+  "name": "jugandoXHR",
+  "version": "1.0.0",
+  "description": "En este ejercicio hacemos uso de los métodos XMLHttpRequest y Fetch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
